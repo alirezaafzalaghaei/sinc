@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='sinc',
-    version='1.0.0',
+    version='0.1.0',
     packages=["sinc"],
     description="Sinc Kernel Function",
     long_description=open('README.md').read(),
